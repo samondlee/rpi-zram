@@ -9,3 +9,9 @@ My experiment showed that we can use 1/5 of the available RAM for compressed swa
 Increasing the size of a ZRAM device can affect system stability.
 
 To install run in the terminal *_install.sh or *_remove.sh scripts according to your initialization system.
+
+===========================================
+
+Fork from SeryogaBrigada/rpi-zram and modified for Rpi4
+
+just put all in /home/zram and give right to systemd_install.sh and then run it.

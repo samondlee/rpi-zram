@@ -10,8 +10,8 @@ KillMode=process
 GuessMainPID=no
 RemainAfterExit=yes
 SuccessExitStatus=5 6
-ExecStart=/opt/zram start
-ExecStop=/opt/zram stop
+ExecStart=/home/zram/zram start
+ExecStop=/home/zram/zram stop
 
 [Install]
 WantedBy=multi-user.target

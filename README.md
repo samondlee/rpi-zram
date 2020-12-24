@@ -12,6 +12,6 @@ To install run in the terminal *_install.sh or *_remove.sh scripts according to 
 
 ===========================================
 
-Fork from SeryogaBrigada/rpi-zram and modified for Rpi4
+Fork from [SeryogaBrigada/rpi-zram](https://github.com/SeryogaBrigada/rpi-zram) and modified for Rpi4
 
 just put all in /home/zram and give right to systemd_install.sh and then run it.
